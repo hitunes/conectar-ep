@@ -2,6 +2,7 @@ body {
   background: #F0F4F7;
   margin: 0;
   padding: 0;
+  font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI, Oxygen, Ubuntu, Cantarell, Open Sans, sans-serif;
 }
 
 a {
@@ -188,6 +189,7 @@ ul {
 }
 
 .nav__links-wrapper ul li {
+  font-size: 12px;
   margin-right: 45px;
 }
 
@@ -229,6 +231,7 @@ ul {
 }
 
 .edit-profile__nav li a {
+  font-size: 12px;
   color: #999999;
 }
 

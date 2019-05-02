@@ -2,6 +2,7 @@ body {
     background: #F0F4F7;
     margin: 0;
     padding: 0;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI, Oxygen, Ubuntu, Cantarell, Open Sans, sans-serif;
 }
 
 a {
@@ -135,6 +136,7 @@ ul {
             align-items: center;
             display: flex;
             li {
+                font-size: 12px;
                 margin-right: 45px;
                 &:last-child {
                     margin-right: 0
@@ -165,6 +167,7 @@ ul {
             position: relative;
             padding-bottom: 14.5px;
             a {
+                font-size: 12px;
                 color: #999999;
             }
             &:after {
